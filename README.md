@@ -4,7 +4,7 @@ HOW TO USE
 
 Commands:
   
-  -add:     Add a new todo item
+    -add:     Add a new todo item
   
   list:    List all todo items
   
