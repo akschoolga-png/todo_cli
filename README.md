@@ -5,23 +5,26 @@ HOW TO USE
 
   Commands:
   
-  add:     Add a new todo item
+  -add:     Add a new todo item
   
-  list:    List all todo items
+  -list:    List all todo items
   
-  done:    Mark a todo item as completed
+  -done:    Mark a todo item as completed
   
-  remove:  Remove an item
+  -remove:  Remove an item
 
 
   Intructions:
   
-  open todo_list file
+  -open todo_list file
   
-  build
+  -build
   
-  cargo run --<command>
+  -cargo run --<command>
+
 
   Details:
-    list saved as a hash map and then stored in a json file
-    see cargo.toml for dependencies
+  
+    -list saved as a hash map and then stored in a json file
+    
+    -see cargo.toml for dependencies
